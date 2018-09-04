@@ -6,6 +6,8 @@ public class Application {
 	{
 		System.out.println("Start application");
 		System.out.println("Print first line");
+		System.out.println("Write second line");
+
 	}
 
 }
